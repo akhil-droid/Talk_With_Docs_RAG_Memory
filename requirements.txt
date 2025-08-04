@@ -12,5 +12,4 @@ streamlit
 pypdf
 sentence-transformers
 
-# In runtime.txt (for Streamlit or Heroku-style apps)
-python-3.10.13
+
